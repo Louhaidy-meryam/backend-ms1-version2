@@ -31,7 +31,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @SpringBootApplication
 @EnableDiscoveryClient
 //@EnableFeignClients
-//version2
 //echo "# backend-ms1-v2" >> README.md
 //git init
 //git add README.md
@@ -39,7 +38,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 //git branch -M main
 //git remote add origin https://github.com/Louhaidy-meryam/backend-ms1-v2.git
 //git push -u origin main
-
 
 
 public class StockyApplication {
