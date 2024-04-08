@@ -31,7 +31,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @SpringBootApplication
 @EnableDiscoveryClient
 //@EnableFeignClients
-
+//version2
 //echo "# backend-ms1-v2" >> README.md
 //git init
 //git add README.md
