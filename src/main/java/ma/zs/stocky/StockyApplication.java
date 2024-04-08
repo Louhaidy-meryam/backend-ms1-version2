@@ -39,6 +39,14 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 //git remote add origin https://github.com/Louhaidy-meryam/backend-ms1-v2.git
 //git push -u origin main
 
+//echo "# backend-ms1-version2" >> README.md
+//git init
+//git add README.md
+//git commit -m "first commit"
+//git branch -M main
+//git remote add origin https://github.com/Louhaidy-meryam/backend-ms1-version2.git
+//git push -u origin main
+
 
 public class StockyApplication {
     public static ConfigurableApplicationContext ctx;
